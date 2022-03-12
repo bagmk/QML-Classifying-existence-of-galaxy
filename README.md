@@ -3,7 +3,6 @@
 # Qhack_Quantum_Machine_Learning: Classifying existence of galaxy
 
 
-
 [![DOI](https://zenodo.org/badge/468975373.svg)](https://zenodo.org/badge/latestdoi/468975373)
 
 
